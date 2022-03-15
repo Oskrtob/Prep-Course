@@ -1,0 +1,4 @@
+1. Ciclo For: Ejecuta un codigo mientras la condicion dada dentro del ciclo sea verdadera, y se ira ejecutando de 1 en 1 segun como lo hayamos determinado.
+2. && : Operador logico que sirve como "Y" o "AND" en una oracion, es decir, ejecuta el codigo mientras dos condiciones dadas sean verdaderas.
+3. || : Operador logico que sirve como "o" u "OR" en una oracion, ejecuta un codigo mientras una de dos condiciones dadas sean verdaderas.
+4. ! : Operador logico que niega una condicion, es decir, si tenemos una condicion dentro del ciclo y agregamos "!" negara dicha condicion y hara lo contrario.
