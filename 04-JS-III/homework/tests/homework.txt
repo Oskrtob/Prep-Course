@@ -1,0 +1,2 @@
+Arrays: Es un conjunto de datos a los cuales podemos acceder posteriormente y se identifican encerrados entre [] y cada dato separado por una coma. 
+Estos datos no necesariamente pueden ser de un solo tipo sino que pueden haber strings, numeros, boleanos, funciones y otroas arrays dentro.
