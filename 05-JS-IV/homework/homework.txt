@@ -1,0 +1,14 @@
+Objetos: Similares a los arrays que pueden contener varios valores ya sean strings, numeros, funciones etc. pero en los objetos
+    se puede darle un nombre a cada valor, lo que se define como clave:valor, a diferencia de los arrays donde
+    cada valor tiene asignado un numero que inicia en 0.
+Propiedades: Son las que se encuentran dentro de los Objetos que estan definidas con su respectiva clave y su valor
+    ejm. Nombre: Mateo. donde nombre es la clave y Mateo el valor.
+Metodos: Son funciones guardades dentro del objeto que pueden llamar a los valores dentro de dicho objeto.
+Bucle for..in: Los objetos a diferencia de los arrays no contienen indices numericos por lo que el bucle que usamos
+    en array no funciona aqui. Declaramos una variable seguida por la palabra clave 'in' y el nombre del objeto lo 
+    lo que recorrera cada clave y finaliza la iteriacion cuando haya recorrido todo el objeto.
+Notacion de puntos vs notacion de corchetes.
+    Para llamar a una clave valor existen dos metodos
+    - Notacion de puntos: Aqui colocamos el nombre del objeto seguido por un punto y en nombre de la clave.
+    - Notacion de corchetes: Se coloca el nombre del objeto y seguido entre corchetes el nmbre de la clave entrre comillas
+    
