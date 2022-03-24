@@ -1,0 +1,4 @@
+* Protptype: Es un objeto que comparte una misma propiedad o propiedades con los demas obejtos
+    permitiendo optimizar el codigo.
+* Constructor: Es yba okabtukka qye se ysa oara crear duferentes objetos por medio de una funcion 
+    y palabras clave this y new.
