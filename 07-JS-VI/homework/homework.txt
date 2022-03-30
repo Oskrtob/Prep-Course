@@ -1,0 +1,2 @@
+* CALLBACKS: Es una funcion utilizada como argumento dentro de otra funcion y que luego se
+    invoca dentro de la funcion externa
